@@ -1,6 +1,4 @@
-# NetMonster Core
-
-Lightweight Android library that is build over [Telephony SDK](https://developer.android.com/reference/android/telephony/package-summary). NetMonster core is extracted from [NetMonster](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster) application and backports several Telephony features to older Android devices.  
+https://developer.android.com/reference/android/telephony/package-summary). NetMonster core is extracted from [NetMonster](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster) application and backports several Telephony features to older Android devices.  
   
 Why use NetMonster Core instead of legacy API?  
  - Validation - library validates data from RIL and corrects them if possible 
